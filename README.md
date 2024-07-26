@@ -95,8 +95,8 @@ yarn dev
 #### 如何部署到自己服务器？ NUXT.JS 打包部署文档
 [部署文档](https://nuxt.com/docs/getting-started/deployment)
 
-### 打赏
+<!-- ### 打赏
 <img src="/assets/donation/wechat_pay.jpg" width=200  />
 
 ### 交流
-<img src="/assets/readme/wechat.jpg" width=200  />
+<img src="/assets/readme/wechat.jpg" width=200  /> -->
