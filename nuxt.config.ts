@@ -26,7 +26,7 @@ export default defineNuxtConfig({
             link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
             script: [
                 {
-                    src: 'https://www.googletagmanager.com/gtag/js?id=G-17SPF6S871',
+                    src: 'https://www.googletagmanager.com/gtag/js?id=G-TXF4KWHYLF',
                     async: true
                 },
                 {
@@ -39,7 +39,7 @@ export default defineNuxtConfig({
                     src: 'https://challenges.cloudflare.com/turnstile/v0/api.js'
                 },
                 {
-                    src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8210373406341452',
+                    src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8100649951857617',
                     async: true,
                     crossorigin: 'anonymous'
                 }
