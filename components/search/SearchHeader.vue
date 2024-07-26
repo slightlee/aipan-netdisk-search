@@ -57,9 +57,9 @@ console.log(colorMode.preference)
               <img class="w-[20px] h-[20px]" src="@/assets/theme/icon-park-solid--dark-mode.svg" alt="">
             </el-button>
           </client-only>
-          <el-button link @click="goGithub()">
+          <!-- <el-button link @click="goGithub()">
             <img class="w-[20px] h-[20px]" src="@/assets/skill-icons--github-dark.svg" alt="github">
-          </el-button>
+          </el-button> -->
         </div>
 
       </div>
