@@ -61,18 +61,18 @@ onMounted(async () => {
             <img class="w-[20px] h-[20px]" src="@/assets/theme/icon-park-solid--dark-mode.svg" alt="">
           </el-button>
 
-          <nuxt-link class="text-sm text-slate-600 font-bold dark:text-white" href="/music" title="音乐搜索小助手">
+          <!-- <nuxt-link class="text-sm text-slate-600 font-bold dark:text-white" href="/music" title="音乐搜索小助手">
             <img v-if="colorMode.preference === 'light'" class="w-[20px] h-[20px]" src="@/assets/theme/music-dark.svg"
               alt="">
             <img v-if="colorMode.preference === 'dark'" class="w-[20px] h-[20px]" src="@/assets/theme/music-light.svg"
               alt="">
-          </nuxt-link>
+          </nuxt-link> -->
         </div>
       </client-only>
     </div>
     <div class="flex flex-row items-center justify-center gap-3 mt-[80px]">
       <img class="w-[40px] h-[40px] sm:w-[60px] sm:h-[60px]" src="@/assets/my-logo.png" alt="logo">
-      <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">网盘资源搜索</h1>
+      <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">资源搜索</h1>
     </div>
     <div class="max-w-[1240px] mx-auto mt-[20px]">
       <div class="w-[80%] md:w-[700px] mx-auto">
@@ -109,8 +109,9 @@ onMounted(async () => {
         </el-button>
       </div>
       <p class="text-center text-[8px] sm:text-[12px] text-slate-400">
-        声明：本站内容皆来自网络公开资源。本站不储存、复制、传播任何文件，不做任何盈利，仅作个人公益学习，请勿非法&商业传播，如有侵权，请及时
-        <a class="text-blue-500 underline" href="mailto:okay-wasting-gulf@duck.com" title="点击留言"> 留言 </a> 告知删除。
+        <!-- 声明：本站内容皆来自网络公开资源。本站不储存、复制、传播任何文件，不做任何盈利，仅作个人公益学习，请勿非法&商业传播，如有侵权，请及时 -->
+        <a class="text-blue-500 underline" href="mailto:okay-wasting-gulf@duck.com" title="点击留言"> 合作留言 </a> 
+        <!-- 告知删除。 -->
 
       </p>
     </div>
